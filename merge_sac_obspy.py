@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Oct 25 00:05:06 2020
-Attention: the merged file may need to be deleted after every run!
+Attention: the merged file may need to be should be deleted after every run!
 @author: Sarvandani
 """
 import os
@@ -10,7 +10,7 @@ from obspy import read
 from obspy import Stream
 os.chdir ('/volumes/DRIVE_2/Merge_github')
 path = '/volumes/DRIVE_2/Merge_github/'
-RECEIVER_name = "SULZ.LHZ.CH.2013.220.processed"
+RECEIVER_name = "SULZ.LHZ.CH"
 ##############################################################################################
 st1= Stream()
 for file in os.listdir(path):
