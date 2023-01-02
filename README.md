@@ -6,5 +6,4 @@ A display of data for every single signal of SAC file and merged SAC file can be
 We would be happy if you could cite our paper for acknowledgement:
 
 MM Sarvandani, E Kästle, L Boschi, S Leroy, M Cannat, Seismic Ambient Noise Imaging of a Quasi-Amagmatic Ultra-Slow Spreading Ridge,
-
 Remote Sensing 13 (14), 2811
