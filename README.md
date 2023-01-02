@@ -3,7 +3,7 @@ In ambient noise tomography, we sometimes need to merge the signals of SAC files
 The following code shows the merged file of multiple SAC files.
 A display of data for every single signal of SAC file and merged SAC file can be found in the folder. 
 
-Please cite our article:
+We would be happy if you could cite our paper for acknowledgement:
 
 MM Sarvandani, E Kästle, L Boschi, S Leroy, M Cannat, Seismic Ambient Noise Imaging of a Quasi-Amagmatic Ultra-Slow Spreading Ridge,
 
