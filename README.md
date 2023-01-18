@@ -4,7 +4,6 @@ The following code shows the merged file of multiple SAC files.
 A display of data for every single signal of SAC file: 
 ![alt text](sacfile1.png)
 ![alt text](sacfile2.png)
-
 merged SAC file:
 ![alt text](merged.png)
 
