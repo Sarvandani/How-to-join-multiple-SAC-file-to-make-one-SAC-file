@@ -1,4 +1,4 @@
-# How-to-join-multiple-SAC-file-to-make-one-SAC-file
+# How to join multiple SAC files to make one SAC file
 In ambient noise tomography, we sometimes need to merge the signals of SAC files from different recorded times .
 The following code shows the merged file of multiple SAC files.
 A display of data for every single signal of SAC file: 
