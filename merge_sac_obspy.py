@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-<meta name="google-site-verification" content="GWWbz3BBjDrdWwZBfEaC517iGkeHqeF_u-OhewunCzA" />
 Attention: the merged file may need to be deleted after every run!
 @author: Sarvandani
 """
