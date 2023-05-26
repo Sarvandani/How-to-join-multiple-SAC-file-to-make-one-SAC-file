@@ -1,3 +1,6 @@
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+
 # How to join multiple SAC files to make one SAC file?
 In ambient noise tomography, we sometimes need to merge the signals of SAC files from different recorded times .
 The following code shows the merged file of multiple SAC files.
